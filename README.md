@@ -66,7 +66,7 @@ Below are some of them.
     where:
     E is the number of edges in the program's control flow graph.
     N is the number of nodes in the graph.
-    P is the number of connected components (typically 1 for a well-structured program)
+    P is the number of connected components (typically 1 for a well-structured program) (All the nodes except the leaf nodes are the connected components) 
     
     Considerations:
     --> CC is used to identify potential areas that may benefit from additional testing.
